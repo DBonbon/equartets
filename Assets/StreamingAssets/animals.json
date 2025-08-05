@@ -1,0 +1,508 @@
+{
+    "cards": [
+        {
+            "suit": "big_cats",
+            "cardName": "lion",
+            "hint": "the king of the jungle",
+            "cardId": 1000,
+            "cardImage": "lion.png"
+        },
+        {
+            "suit": "big_cats",
+            "cardName": "tiger",
+            "hint": "striped predator",
+            "cardId": 1001,
+            "cardImage": "tiger.png"
+        },
+        {
+            "suit": "big_cats",
+            "cardName": "leopard",
+            "hint": "spotted hunter",
+            "cardId": 1002,
+            "cardImage": "leopard.png"
+        },
+        {
+            "suit": "big_cats",
+            "cardName": "jaguar",
+            "hint": "lives in the Americas",
+            "cardId": 1003,
+            "cardImage": "jaguar.png"
+        },
+        {
+            "suit": "hoofed_mammals",
+            "cardName": "horse",
+            "hint": "used for riding",
+            "cardId": 1004,
+            "cardImage": "horse.png"
+        },
+        {
+            "suit": "hoofed_mammals",
+            "cardName": "donkey",
+            "hint": "a stubborn helper",
+            "cardId": 1005,
+            "cardImage": "donkey.png"
+        },
+        {
+            "suit": "hoofed_mammals",
+            "cardName": "zebra",
+            "hint": "striped like no other",
+            "cardId": 1006,
+            "cardImage": "zebra.png"
+        },
+        {
+            "suit": "hoofed_mammals",
+            "cardName": "giraffe",
+            "hint": "tallest land animal",
+            "cardId": 1007,
+            "cardImage": "giraffe.png"
+        },
+        {
+            "suit": "boars_and_bovines",
+            "cardName": "buffalo",
+            "hint": "horned herd animal",
+            "cardId": 1008,
+            "cardImage": "buffalo.png"
+        },
+        {
+            "suit": "boars_and_bovines",
+            "cardName": "wild-boar",
+            "hint": "forest pig",
+            "cardId": 1009,
+            "cardImage": "wild-boar.png"
+        },
+        {
+            "suit": "boars_and_bovines",
+            "cardName": "bison",
+            "hint": "American grassland beast",
+            "cardId": 1010,
+            "cardImage": "bison.png"
+        },
+        {
+            "suit": "boars_and_bovines",
+            "cardName": "cow",
+            "hint": "farm milk source",
+            "cardId": 1011,
+            "cardImage": "cow.png"
+        },
+        {
+            "suit": "bears",
+            "cardName": "bear",
+            "hint": "likes honey and caves",
+            "cardId": 1012,
+            "cardImage": "bear.png"
+        },
+        {
+            "suit": "bears",
+            "cardName": "polar-bear",
+            "hint": "white arctic predator",
+            "cardId": 1013,
+            "cardImage": "polar-bear.png"
+        },
+        {
+            "suit": "bears",
+            "cardName": "panda-bear",
+            "hint": "bamboo lover",
+            "cardId": 1014,
+            "cardImage": "panda-bear.png"
+        },
+        {
+            "suit": "bears",
+            "cardName": "bear-grizzly",
+            "hint": "strong and wild",
+            "cardId": 1015,
+            "cardImage": "bear-grizzly.png"
+        },
+        {
+            "suit": "reptiles",
+            "cardName": "snake",
+            "hint": "slithering reptile",
+            "cardId": 1016,
+            "cardImage": "snake.png"
+        },
+        {
+            "suit": "reptiles",
+            "cardName": "snake(-boa",
+            "hint": "strong constrictor",
+            "cardId": 1017,
+            "cardImage": "snake-boa.png"
+        },
+        {
+            "suit": "reptiles",
+            "cardName": "python",
+            "hint": "large, non-venomous snake",
+            "cardId": 1018,
+            "cardImage": "python.png"
+        },
+        {
+            "suit": "reptiles",
+            "cardName": "cobra",
+            "hint": "hooded venomous snake",
+            "cardId": 1019,
+            "cardImage": "cobra.png"
+        },
+        {
+            "suit": "sea_creatures",
+            "cardName": "clown-fish",
+            "hint": "colorful reef fish",
+            "cardId": 1020,
+            "cardImage": "clown-fish.png"
+        },
+        {
+            "suit": "sea_creatures",
+            "cardName": "jellyfish",
+            "hint": "transparent stinger",
+            "cardId": 1021,
+            "cardImage": "jellyfish.png"
+        },
+        {
+            "suit": "sea_creatures",
+            "cardName": "seal",
+            "hint": "floppy marine mammal",
+            "cardId": 1022,
+            "cardImage": "seal.png"
+        },
+        {
+            "suit": "sea_creatures",
+            "cardName": "sea-lion",
+            "hint": "barking swimmer",
+            "cardId": 1023,
+            "cardImage": "sea-lion.png"
+        },
+        {
+            "suit": "birds_of_prey",
+            "cardName": "eagle",
+            "hint": "sharp-eyed hunter",
+            "cardId": 1024,
+            "cardImage": "eagle.png"
+        },
+        {
+            "suit": "birds_of_prey",
+            "cardName": "falcon",
+            "hint": "very fast bird",
+            "cardId": 1025,
+            "cardImage": "falcon.png"
+        },
+        {
+            "suit": "birds_of_prey",
+            "cardName": "hawk",
+            "hint": "keen-sighted raptor",
+            "cardId": 1026,
+            "cardImage": "hawk.png"
+        },
+        {
+            "suit": "birds_of_prey",
+            "cardName": "kite",
+            "hint": "soaring scavenger",
+            "cardId": 1027,
+            "cardImage": "kite.png"
+        },
+        {
+            "suit": "water_birds",
+            "cardName": "duck",
+            "hint": "quacks and floats",
+            "cardId": 1028,
+            "cardImage": "duck.png"
+        },
+        {
+            "suit": "water_birds",
+            "cardName": "flamingo",
+            "hint": "pink long-legged wader",
+            "cardId": 1029,
+            "cardImage": "flamingo.png"
+        },
+        {
+            "suit": "water_birds",
+            "cardName": "penguin",
+            "hint": "flightless swimmer",
+            "cardId": 1030,
+            "cardImage": "penguin.png"
+        },
+        {
+            "suit": "water_birds",
+            "cardName": "peacock",
+            "hint": "feather fan display",
+            "cardId": 1031,
+            "cardImage": "peacock.png"
+        },
+        {
+            "suit": "primates",
+            "cardName": "chimpanzee",
+            "hint": "smart forest primate",
+            "cardId": 1032,
+            "cardImage": "chimpanzee.png"
+        },
+        {
+            "suit": "primates",
+            "cardName": "gorilla",
+            "hint": "strong mountain ape",
+            "cardId": 1033,
+            "cardImage": "gorilla.png"
+        },
+        {
+            "suit": "primates",
+            "cardName": "monkey",
+            "hint": "playful tail swinger",
+            "cardId": 1034,
+            "cardImage": "monkey.png"
+        },
+        {
+            "suit": "primates",
+            "cardName": "orangutan",
+            "hint": "orange tree-dweller",
+            "cardId": 1035,
+            "cardImage": "orangutan.png"
+        },
+        {
+            "suit": "heavyweights",
+            "cardName": "elephant-seal",
+            "hint": "huge blubber beast",
+            "cardId": 1036,
+            "cardImage": "elephant-seal.png"
+        },
+        {
+            "suit": "heavyweights",
+            "cardName": "walrus",
+            "hint": "tusks and whiskers",
+            "cardId": 1037,
+            "cardImage": "walrus.png"
+        },
+        {
+            "suit": "heavyweights",
+            "cardName": "orca",
+            "hint": "black and white hunter",
+            "cardId": 1038,
+            "cardImage": "orca.png"
+        },
+        {
+            "suit": "heavyweights",
+            "cardName": "whale",
+            "hint": "ocean giant",
+            "cardId": 1039,
+            "cardImage": "whale.png"
+        },
+        {
+            "suit": "domestics_small",
+            "cardName": "cat",
+            "hint": "independent pet",
+            "cardId": 1040,
+            "cardImage": "cat.png"
+        },
+        {
+            "suit": "domestics_small",
+            "cardName": "mouse",
+            "hint": "small cheese lover",
+            "cardId": 1041,
+            "cardImage": "mouse.png"
+        },
+        {
+            "suit": "domestics_small",
+            "cardName": "rabbit",
+            "hint": "hops and eats carrots",
+            "cardId": 1042,
+            "cardImage": "rabbit.png"
+        },
+        {
+            "suit": "domestics_small",
+            "cardName": "dog",
+            "hint": "man's best friend",
+            "cardId": 1043,
+            "cardImage": "dog.png"
+        },
+        {
+            "suit": "farm_animals",
+            "cardName": "chicken",
+            "hint": "lays eggs",
+            "cardId": 1044,
+            "cardImage": "chicken.png"
+        },
+        {
+            "suit": "farm_animals",
+            "cardName": "goat",
+            "hint": "Micheal Jorden",
+            "cardId": 1045,
+            "cardImage": "got.png"
+        },
+        {
+            "suit": "farm_animals",
+            "cardName": "pig",
+            "hint": "snorting mud roller",
+            "cardId": 1046,
+            "cardImage": "pig.png"
+        },
+        {
+            "suit": "farm_animals",
+            "cardName": "sheep",
+            "hint": "wooly and bleating",
+            "cardId": 1047,
+            "cardImage": "sheep.png"
+        },
+        {
+            "suit": "insects",
+            "cardName": "butterfly",
+            "hint": "colorful flyer",
+            "cardId": 1048,
+            "cardImage": "butterfly.png"
+        },
+        {
+            "suit": "insects",
+            "cardName": "ladybug",
+            "hint": "red spotted beetle",
+            "cardId": 1049,
+            "cardImage": "ladybug.png"
+        },
+        {
+            "suit": "insects",
+            "cardName": "antelope",
+            "hint": "not an insect!",
+            "cardId": 1050,
+            "cardImage": "antelope.png"
+        },
+        {
+            "suit": "insects",
+            "cardName": "shrimp",
+            "hint": "small crustacean",
+            "cardId": 1051,
+            "cardImage": "shrimp.png"
+        },
+        {
+            "suit": "other_reptiles",
+            "cardName": "crocodile",
+            "hint": "snapping jaws",
+            "cardId": 1052,
+            "cardImage": "crocodile.png"
+        },
+        {
+            "suit": "other_reptiles",
+            "cardName": "reptile",
+            "hint": "cold-blooded generalist",
+            "cardId": 1053,
+            "cardImage": "reptile.png"
+        },
+        {
+            "suit": "other_reptiles",
+            "cardName": "sea-turtle",
+            "hint": "swimming shelled reptile",
+            "cardId": 1054,
+            "cardImage": "sea-turtle.png"
+        },
+        {
+            "suit": "other_reptiles",
+            "cardName": "anaconda",
+            "hint": "massive water snake",
+            "cardId": 1055,
+            "cardImage": "anaconda.png"
+        },
+        {
+            "suit": "deer_like",
+            "cardName": "deer",
+            "hint": "antlered forest dweller",
+            "cardId": 1056,
+            "cardImage": "deer.png"
+        },
+        {
+            "suit": "deer_like",
+            "cardName": "antelope",
+            "hint": "fast grassland runner",
+            "cardId": 1057,
+            "cardImage": "antelope.png"
+        },
+        {
+            "suit": "deer_like",
+            "cardName": "cougar",
+            "hint": "mountain lion",
+            "cardId": 1058,
+            "cardImage": "cougar.png"
+        },
+        {
+            "suit": "deer_like",
+            "cardName": "moose",
+            "hint": "not present",
+            "cardId": 1059,
+            "cardImage": "moose.png"
+        },
+        {
+            "suit": "mixed_canine",
+            "cardName": "boar",
+            "hint": "wild tusked pig",
+            "cardId": 1060,
+            "cardImage": "boar.png"
+        },
+        {
+            "suit": "mixed_canine",
+            "cardName": "wild-boar",
+            "hint": "wilder cousin",
+            "cardId": 1061,
+            "cardImage": "wild-boar.png"
+        },
+        {
+            "suit": "mixed_canine",
+            "cardName": "bear-grizzly",
+            "hint": "repeated grizzly",
+            "cardId": 1062,
+            "cardImage": "bear-grizzly.png"
+        },
+        {
+            "suit": "mixed_canine",
+            "cardName": "wolf",
+            "hint": "can add if available",
+            "cardId": 1063,
+            "cardImage": "wolf.png"
+        },
+        {
+            "suit": "bird_misc",
+            "cardName": "quail",
+            "hint": "tiny ground bird",
+            "cardId": 1064,
+            "cardImage": "quail.png"
+        },
+        {
+            "suit": "bird_misc",
+            "cardName": "turkey",
+            "hint": "festive gobbler",
+            "cardId": 1065,
+            "cardImage": "turkey.png"
+        },
+        {
+            "suit": "bird_misc",
+            "cardName": "greater-sage-grouse",
+            "hint": "prairie bird",
+            "cardId": 1066,
+            "cardImage": "greater-sage-grouse.png"
+        },
+        {
+            "suit": "bird_misc",
+            "cardName": "chicken(1)",
+            "hint": "used again",
+            "cardId": 1067,
+            "cardImage": "chicken1.png"
+        },
+        {
+            "suit": "arctic_marine",
+            "cardName": "beluga",
+            "hint": "white arctic whale",
+            "cardId": 1068,
+            "cardImage": "beluga.png"
+        },
+        {
+            "suit": "arctic_marine",
+            "cardName": "seal",
+            "hint": "used again",
+            "cardId": 1069,
+            "cardImage": "seal.png"
+        },
+        {
+            "suit": "arctic_marine",
+            "cardName": "sea-lion",
+            "hint": "also reused",
+            "cardId": 1070,
+            "cardImage": "sea-lion.png"
+        },
+        {
+            "suit": "arctic_marine",
+            "cardName": "walrus",
+            "hint": "already listed",
+            "cardId": 1071,
+            "cardImage": "walrus.png"
+        }
+    ]
+}
